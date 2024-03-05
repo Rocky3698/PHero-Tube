@@ -1,15 +1,12 @@
-.profile{
+.profile {
     width: 40px;
     height: 40px;
-    border-radius:50%;
+    border-radius: 50%;
     object-fit: cover;
 }
-.thumbnail{
+
+.thumbnail {
     height: 200px;
     width: 300px;
     object-fit: cover;
 }
-/* body{
-    background-color: #1d1e1f;
-    
-} */
