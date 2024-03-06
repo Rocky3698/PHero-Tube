@@ -2,11 +2,40 @@
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    object-fit: cover;
+    object-fit:cover;
 }
 
 .thumbnail {
     height: 200px;
-    width: 300px;
+    width: 315px;
     object-fit: cover;
+}
+
+.vdo {
+    position: relative;
+}
+.c{
+    height: 300px;
+    width: 325px;
+}
+.time {
+    position: absolute;
+    bottom: 5px;
+    right: 10px;
+    /* background-color: transparent; */
+}
+
+.blog-body {
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.blog {
+    margin-top: 10vw;
+}
+
+.figcaption {
+    text-align: center;
+    font-style: italic;
 }
